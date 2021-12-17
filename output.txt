@@ -1,0 +1,112 @@
+Script started on 2021-12-17 22:01:33+00:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="82" LINES="32"]
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ mkdir folder1
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ mkf dir folder2
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ touch file1.txt
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ touch file2.txt
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ touch file3.txt
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ mv file1.txt folder1
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ mv file2.txt folder2
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ cd folder1
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade/folder1$ ls
+file1.txt
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade/folder1$ status
+
+Command 'status' not found, did you mean:
+
+  command 'qstatus' from deb gridengine-client (8.1.9+dfsg-9build2)
+  command 'statfs' from deb gocryptfs (1.7.1-1)
+  command 'states' from deb enscript (1.6.5.90-3)
+
+Try: sudo apt install <deb name>
+
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade/folder1$ pwd
+/mnt/c/Users/Folasade/folder1
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade/folder1$ cd ..
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ ls
+'3D Objects'
+ AppData
+'Application Data'
+ Contacts
+ Cookies
+ Desktop
+ Documents
+ Downloads
+ Favorites
+ IntelGraphicsProfiles
+ Links
+'Local Settings'
+ Music
+'My Documents'
+ NTUSER.DAT
+ NTUSER.DAT{3e109d66-446d-11ec-952f-b252c267ef2f}.TM.blf
+ NTUSER.DAT{3e109d66-446d-11ec-952f-b252c267ef2f}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{3e109d66-446d-11ec-952f-b252c267ef2f}.TMContainer00000000000000000002.regtrans-ms
+ NetHood
+ OneDrive
+ PrintHood
+ Recent
+'Saved Games'
+ Searches
+ SendTo
+'Start Menu'
+ Templates
+ Videos
+ black-codher
+ file3.txt
+ folder1
+ folder2
+ gittest
+ myportfolio1
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ output.txt
+ workspace.code-workspace
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ pwd
+/mnt/c/Users/Folasade
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ cd  rm file.txt
+rm: cannot remove 'file.txt': No such file or directory
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ rm file3.txt
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ ls
+'3D Objects'
+ AppData
+'Application Data'
+ Contacts
+ Cookies
+ Desktop
+ Documents
+ Downloads
+ Favorites
+ IntelGraphicsProfiles
+ Links
+'Local Settings'
+ Music
+'My Documents'
+ NTUSER.DAT
+ NTUSER.DAT{3e109d66-446d-11ec-952f-b252c267ef2f}.TM.blf
+ NTUSER.DAT{3e109d66-446d-11ec-952f-b252c267ef2f}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{3e109d66-446d-11ec-952f-b252c267ef2f}.TMContainer00000000000000000002.regtrans-ms
+ NetHood
+ OneDrive
+ PrintHood
+ Recent
+'Saved Games'
+ Searches
+ SendTo
+'Start Menu'
+ Templates
+ Videos
+ black-codher
+ folder1
+ folder2
+ gittest
+ myportfolio1
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ output.txt
+ workspace.code-workspace
+sadefasan@DESKTOP-4RHLQDU:/mnt/c/Users/Folasade$ exit
+exit
+
+Script done on 2021-12-17 22:11:11+00:00 [COMMAND_EXIT_CODE="0"]
